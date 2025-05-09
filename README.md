@@ -69,17 +69,17 @@ To continue developing full-stack applications while deepening my understanding 
 
 ---
 
-## 📄 Cover Letter: AU Skill Academy
+## 📄 Cover Letter
 
-**Dear AU Skill Academy Team,**
+**Dear Hiring Manager,**
 
-I am Praveen Kumar, a Bachelor of Computer Applications student at Poornima University, Jaipur, writing to express my strong interest in studying and interning at AU Skill Academy. With a growing skill set in web development, cloud computing, and cybersecurity, I am eager to contribute to and learn from a dynamic and innovative environment like yours.
+I'm Praveen Kumar, a Computer Applications student with a growing expertise in full-stack development, cloud fundamentals, and user-centric web solutions. I’m reaching out to express my interest in internship or entry-level opportunities at your organization.
 
-My hands-on experience includes building a customizable QR Code Generator and a Spotify clone web application. These projects have allowed me to apply and strengthen my frontend skills while fostering a team-based mindset and problem-solving abilities. Through virtual internships with TATA and AWS via Forage, I have also gained exposure to cybersecurity principles, identity access management, and scalable cloud architectures.
+Throughout my academic journey, I've pursued practical learning through projects such as a QR Code Generator and a Spotify clone, which showcase my ability to build functional, responsive, and visually engaging applications. My experience is further strengthened by virtual internships with TATA and AWS through Forage, where I explored cybersecurity principles and cloud architecture.
 
-I am particularly drawn to AU Skill Academy's commitment to skill-based learning and real-world application. I believe that my technical foundation, combined with my dedication to learning and leadership experience, makes me a suitable candidate for your program.
+I bring not just technical knowledge but a passion for solving real-world problems with code. I’m a fast learner, collaborative team player, and always open to feedback. I believe my blend of creativity, curiosity, and commitment to continuous learning would make me a valuable addition to your team.
 
-Thank you for considering my application. I look forward to the opportunity to grow within AU Skill Academy and contribute meaningfully to your initiatives.
+Thank you for visiting my portfolio. I’d be excited to connect and explore ways I can contribute to your team’s goals.
 
 **Sincerely,**  
 *Praveen Kumar*
